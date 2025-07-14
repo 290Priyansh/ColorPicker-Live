@@ -27,14 +27,14 @@ Click on any pixel in the webcam feed to instantly detect and highlight similar 
 
 ---
 ##🛠 Tech Stack
--Python 🐍
--OpenCV 🎥
--NumPy 🔢
+-Python 🐍.
+-OpenCV 🎥.
+-NumPy 🔢.
 
 ---
 ##🧠 Use Cases
--Live object color filtering
--Simple color segmentation projects
--Educational demos of HSV color space
--Building blocks for AR, tracking, and visual detection tools
+-Live object color filtering.
+-Simple color segmentation projects.
+-Educational demos of HSV color space.
+-Building blocks for AR, tracking, and visual detection tools.
 
